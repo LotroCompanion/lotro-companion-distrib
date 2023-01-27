@@ -1,6 +1,10 @@
 LOTRO Companion
 Release Notes / History
 
+20.3.34.1 (08/12/2022)
+- updates/improvements
+	- data for Update 34.1
+
 20.3.34.0 (17/11/2022)
 - new features
 	- hobbies (=fishing...) status
