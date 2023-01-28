@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><package id="2" name="main" version="1" versionLabel="1.0">
-<sourceURL URL="https://sourceforge.net/projects/lotrocompanion/files/loredb/packages/2.zip/download"/>
-<archive path="2.zip" size="2885680" crc="1417757609">
+<sourceURL URL="https://sourceforge.net/projects/lotrocompanion/files/loredb/ru/packages/2.zip/download"/>
+<archive path="2.zip" size="2876692" crc="659512561">
 <directory name="doc">
-<file name="HISTORY.txt" size="25205" crc="2764526608"/>
+<file name="HISTORY.txt" size="106" crc="1861917621"/>
 <file name="LICENSE.txt" size="11560" crc="1231013273"/>
 <directory name="licenses">
 <directory name="jcommon">
@@ -20,8 +20,8 @@
 <file name="license.txt" size="1173" crc="2924063616"/>
 </directory>
 </directory>
-<file name="NOTICE.txt" size="933" crc="1559302170"/>
-<file name="THANKS.txt" size="743" crc="3507565190"/>
+<file name="NOTICE.txt" size="964" crc="2373280060"/>
+<file name="THANKS.txt" size="678" crc="605991189"/>
 </directory>
 <directory name="kickstarter">
 <file name="commons-codec-1.10.jar" size="284184" crc="1487795355"/>
@@ -42,6 +42,6 @@
 <file name="logback.xml" size="5602" crc="553117575"/>
 <file name="LotRO Lore Database.cfg" size="827" crc="3422285149"/>
 <file name="LotroLoreDatabase.sh" size="1048" crc="719065566"/>
-<file name="README.txt" size="2799" crc="1444043345"/>
+<file name="README.txt" size="1648" crc="966975411"/>
 </archive>
 </package>

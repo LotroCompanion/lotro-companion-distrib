@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><package id="1" name="lib" version="1" versionLabel="1.0">
-<sourceURL URL="https://sourceforge.net/projects/lotrocompanion/files/loredb/packages/1.zip/download"/>
-<archive path="1.zip" size="18124383" crc="1861633071">
+<sourceURL URL="https://sourceforge.net/projects/lotrocompanion/files/loredb/ru/packages/1.zip/download"/>
+<archive path="1.zip" size="18125061" crc="1494290632">
 <directory name="lib">
 <file name="areaIcons.zip" size="112327" crc="1476127192"/>
 <file name="delta-common-1.7.2.jar" size="203533" crc="3198579339"/>
 <file name="delta-common-l10n-1.0.jar" size="11738" crc="918730229"/>
 <file name="delta-common-ui-1.22.jar" size="193624" crc="4146734171"/>
 <file name="delta-json-1.1.1.jar" size="22371" crc="2084807833"/>
-<file name="delta-lotro-companion-20.4.jar" size="4082051" crc="1173628562"/>
+<file name="delta-lotro-companion-20.4.jar" size="4082382" crc="3206792240"/>
 <file name="delta-lotro-core-20.4.jar" size="2054071" crc="1345267877"/>
 <file name="delta-lotro-dat-utils-9.0.jar" size="920333" crc="2772724039"/>
 <file name="delta-lotro-data-extractor-5.9.jar" size="106551" crc="3313975816"/>
