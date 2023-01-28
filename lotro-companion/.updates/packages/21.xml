@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><package id="21" name="patch20.3.34.1.2" version="1" versionLabel="1.0">
+<sourceURL URL="https://sourceforge.net/projects/lotrocompanion/files/16/packages/21.zip/download"/>
+<archive path="21.zip" size="65206089" crc="4175236241">
+<directory name="data">
+<directory name="config">
+<file name="params.txt" size="355" crc="318813771"/>
+</directory>
+<directory name="lore">
+<file name="barters.xml" size="6450237" crc="91521677"/>
+<file name="billingGroups.xml" size="43384" crc="1689660621"/>
+<file name="classes.xml" size="84376" crc="3366123888"/>
+<file name="consumables.xml" size="489097" crc="3054365630"/>
+<file name="containers.xml" size="489043" crc="3108927249"/>
+<file name="cosmetics.xml" size="956890" crc="4151198511"/>
+<file name="disenchantments.xml" size="3212579" crc="574865765"/>
+<directory name="enums">
+<file name="BillingGroup.xml" size="29321" crc="3664379216"/>
+</directory>
+<file name="items.xml" size="68289855" crc="2272631769"/>
+<file name="loots.xml" size="13614230" crc="1126950349"/>
+<directory name="maps">
+<directory name="indexes">
+<directory name="did">
+<file name="1879077402.xml" size="118192" crc="1574969000"/>
+<file name="1879077508.xml" size="264052" crc="2554073232"/>
+<file name="1879077512.xml" size="27712" crc="1700013454"/>
+<file name="1879077513.xml" size="265144" crc="1457698258"/>
+<file name="1879077514.xml" size="265144" crc="3945323282"/>
+<file name="1879077553.xml" size="118192" crc="3406553736"/>
+<file name="1879077557.xml" size="16922" crc="194840996"/>
+<file name="1879087932.xml" size="259892" crc="239912430"/>
+<file name="1879087934.xml" size="117932" crc="37309114"/>
+<file name="1879087935.xml" size="265664" crc="414087494"/>
+<file name="1879087938.xml" size="265144" crc="1688102340"/>
+<file name="1879087940.xml" size="117932" crc="211558340"/>
+<file name="1879095490.xml" size="1790" crc="1203884229"/>
+<file name="1879445907.xml" size="2083714" crc="1045835294"/>
+<file name="1879445908.xml" size="272476" crc="3094417217"/>
+<file name="1879445911.xml" size="1361850" crc="2347751406"/>
+<file name="1879445916.xml" size="899856" crc="49038010"/>
+<file name="1879445918.xml" size="530162" crc="3984298145"/>
+</directory>
+<directory name="layers">
+<file name="0.xml" size="52820821" crc="2316948562"/>
+<file name="268435461.xml" size="887454" crc="2688913166"/>
+<file name="268435481.xml" size="884126" crc="702632872"/>
+<file name="268435585.xml" size="1633" crc="4036427250"/>
+<file name="268435599.xml" size="775" crc="755423365"/>
+<file name="268435601.xml" size="255" crc="2341389639"/>
+<file name="268435606.xml" size="12137" crc="1855955646"/>
+<file name="268435641.xml" size="385" crc="876329343"/>
+<file name="268436673.xml" size="541" crc="1119912018"/>
+<file name="268436674.xml" size="515" crc="1047801683"/>
+<file name="268436677.xml" size="619" crc="3295581444"/>
+<file name="268436678.xml" size="541" crc="2636587296"/>
+<file name="268436683.xml" size="645" crc="3468767133"/>
+<file name="268436684.xml" size="957" crc="2870345168"/>
+<file name="268436700.xml" size="931" crc="323945816"/>
+<file name="268436703.xml" size="593" crc="938328804"/>
+<file name="268436704.xml" size="619" crc="3104319887"/>
+<file name="268436705.xml" size="385" crc="808649353"/>
+</directory>
+</directory>
+<directory name="markers">
+<file name="markers-1-15-8.xml" size="276944" crc="2575423713"/>
+<file name="markers-1-7-5.xml" size="6243900" crc="1707255529"/>
+<file name="markers-1-7-6.xml" size="7169785" crc="1523416411"/>
+<file name="markers-1-8-6.xml" size="9793985" crc="2286427617"/>
+<file name="markers-1-9-4.xml" size="3510216" crc="1534987145"/>
+<file name="markers-1-9-5.xml" size="8894170" crc="102528723"/>
+<file name="markers-1-9-6.xml" size="7602518" crc="3049591555"/>
+</directory>
+</directory>
+<file name="mobs.xml" size="1996044" crc="343219405"/>
+<file name="mounts.xml" size="171517" crc="4184872335"/>
+<file name="pets.xml" size="90799" crc="2533439521"/>
+<file name="progressions.xml" size="5743280" crc="3131026019"/>
+<file name="quests.xml" size="42782527" crc="1408370642"/>
+<file name="skills.xml" size="1205342" crc="3385823328"/>
+<file name="statTomes.xml" size="10478" crc="3559423516"/>
+<file name="titles.xml" size="470638" crc="568908762"/>
+<file name="traits.xml" size="1011746" crc="3072510285"/>
+</directory>
+</directory>
+<directory name="doc">
+<file name="HISTORY.txt" size="25346" crc="2395529741"/>
+<file name="NOTICE.txt" size="933" crc="1850373797"/>
+</directory>
+<directory name="lib">
+<file name="areaIcons.zip" size="117183" crc="3053795062"/>
+<file name="effectIcons.zip" size="62804" crc="3895901647"/>
+<file name="itemIcons.zip" size="31728051" crc="2507168419"/>
+<file name="skillIcons.zip" size="6647269" crc="2275309963"/>
+<file name="traitIcons.zip" size="6631301" crc="2623100431"/>
+</directory>
+<file name="LotRO Companion.cfg" size="792" crc="1785901054"/>
+<file name="LotroCompanion.sh" size="1033" crc="1709659824"/>
+<file name="README.txt" size="2801" crc="4148705692"/>
+</archive>
+</package>

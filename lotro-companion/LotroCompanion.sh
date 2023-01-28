@@ -1,6 +1,6 @@
 #!/bin/bash
 
-JAVA_OPTS="-Xms256M -Xmx768M -Dcom.sun.management.jmxremote -Duser.language=en -Dlogback.configurationFile=logback.xml"
+JAVA_OPTS="-Xms256M -Xmx1024M -Dcom.sun.management.jmxremote -Duser.language=en -Dlogback.configurationFile=logback.xml"
 
 P=`pwd`
 # Setup boot classpath

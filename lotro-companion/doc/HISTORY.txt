@@ -1,6 +1,12 @@
 LOTRO Companion
 Release Notes / History
 
+20.3.34.1.2 (11/01/2023)
+- updates/improvements
+	- data for Update 34.1.2
+- bug fixes:
+	- increased max memory to avoid stuck imports
+
 20.3.34.1 (08/12/2022)
 - updates/improvements
 	- data for Update 34.1

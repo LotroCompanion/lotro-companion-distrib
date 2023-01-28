@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><software id="0" name="Lotro Companion" version="2031" versionLabel="20.3.34.1" date="1668710402698" contentsDescription="Version 16 of the famous tool for Lotro" descriptionURL="https://sourceforge.net/projects/lotrocompanion/files/16/software.xml/download">
+<?xml version="1.0" encoding="UTF-8"?><software id="0" name="Lotro Companion" version="2032" versionLabel="20.3.34.1.2" date="1668710402698" contentsDescription="Version 16 of the famous tool for Lotro" descriptionURL="https://sourceforge.net/projects/lotrocompanion/files/16/software.xml/download">
 <packageUsage id="0" name="data" version="1" versionLabel="1.0" descriptionUrl="https://sourceforge.net/projects/lotrocompanion/files/16/packages/0.xml/download"/>
 <packageUsage id="1" name="lib" version="1" versionLabel="1.0" descriptionUrl="https://sourceforge.net/projects/lotrocompanion/files/16/packages/1.xml/download"/>
 <packageUsage id="2" name="main" version="1" versionLabel="1.0" descriptionUrl="https://sourceforge.net/projects/lotrocompanion/files/16/packages/2.xml/download"/>
@@ -20,4 +20,5 @@
 <packageUsage id="18" name="patch20.2.33.2.1" version="1" versionLabel="1.0" descriptionUrl="https://sourceforge.net/projects/lotrocompanion/files/16/packages/18.xml/download"/>
 <packageUsage id="19" name="patch20.3.34.0" version="1" versionLabel="1.0" descriptionUrl="https://sourceforge.net/projects/lotrocompanion/files/16/packages/19.xml/download"/>
 <packageUsage id="20" name="patch20.3.34.1" version="1" versionLabel="1.0" descriptionUrl="https://sourceforge.net/projects/lotrocompanion/files/16/packages/20.xml/download"/>
+<packageUsage id="21" name="patch20.3.34.1.2" version="1" versionLabel="1.0" descriptionUrl="https://sourceforge.net/projects/lotrocompanion/files/16/packages/21.xml/download"/>
 </software>
