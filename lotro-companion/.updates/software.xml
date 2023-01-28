@@ -1,23 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><software id="0" name="Lotro Companion" version="2031" versionLabel="20.3.34.1" date="1668710402698" contentsDescription="Version 16 of the famous tool for Lotro" descriptionURL="https://sourceforge.net/projects/lotrocompanion/files/16/software.xml/download">
-<packageUsage id="0" name="data" version="1" versionLabel="1.0" descriptionUrl="https://sourceforge.net/projects/lotrocompanion/files/16/packages/0.xml/download"/>
-<packageUsage id="1" name="lib" version="1" versionLabel="1.0" descriptionUrl="https://sourceforge.net/projects/lotrocompanion/files/16/packages/1.xml/download"/>
-<packageUsage id="2" name="main" version="1" versionLabel="1.0" descriptionUrl="https://sourceforge.net/projects/lotrocompanion/files/16/packages/2.xml/download"/>
-<packageUsage id="3" name="patch16.5" version="1" versionLabel="1.0" descriptionUrl="https://sourceforge.net/projects/lotrocompanion/files/16/packages/3.xml/download"/>
-<packageUsage id="4" name="patch17.0" version="1" versionLabel="1.0" descriptionUrl="https://sourceforge.net/projects/lotrocompanion/files/16/packages/4.xml/download"/>
-<packageUsage id="5" name="patch17.5" version="1" versionLabel="1.0" descriptionUrl="https://sourceforge.net/projects/lotrocompanion/files/16/packages/5.xml/download"/>
-<packageUsage id="6" name="patch17.6" version="1" versionLabel="1.0" descriptionUrl="https://sourceforge.net/projects/lotrocompanion/files/16/packages/6.xml/download"/>
-<packageUsage id="7" name="patch17.8" version="1" versionLabel="1.0" descriptionUrl="https://sourceforge.net/projects/lotrocompanion/files/16/packages/7.xml/download"/>
-<packageUsage id="8" name="patch18.0" version="1" versionLabel="1.0" descriptionUrl="https://sourceforge.net/projects/lotrocompanion/files/16/packages/8.xml/download"/>
-<packageUsage id="9" name="patch18.2" version="1" versionLabel="1.0" descriptionUrl="https://sourceforge.net/projects/lotrocompanion/files/16/packages/9.xml/download"/>
-<packageUsage id="10" name="patch18.5" version="1" versionLabel="1.0" descriptionUrl="https://sourceforge.net/projects/lotrocompanion/files/16/packages/10.xml/download"/>
-<packageUsage id="11" name="patch19.0" version="1" versionLabel="1.0" descriptionUrl="https://sourceforge.net/projects/lotrocompanion/files/16/packages/11.xml/download"/>
-<packageUsage id="12" name="patch19.01" version="1" versionLabel="1.0" descriptionUrl="https://sourceforge.net/projects/lotrocompanion/files/16/packages/12.xml/download"/>
-<packageUsage id="13" name="patch19.2" version="1" versionLabel="1.0" descriptionUrl="https://sourceforge.net/projects/lotrocompanion/files/16/packages/13.xml/download"/>
-<packageUsage id="14" name="patch19.2.33.01" version="1" versionLabel="1.0" descriptionUrl="https://sourceforge.net/projects/lotrocompanion/files/16/packages/14.xml/download"/>
-<packageUsage id="15" name="patch19.2.33.05" version="1" versionLabel="1.0" descriptionUrl="https://sourceforge.net/projects/lotrocompanion/files/16/packages/15.xml/download"/>
-<packageUsage id="16" name="patch20.0.33.05" version="1" versionLabel="1.0" descriptionUrl="https://sourceforge.net/projects/lotrocompanion/files/16/packages/16.xml/download"/>
-<packageUsage id="17" name="patch20.1.33.1.1" version="1" versionLabel="1.0" descriptionUrl="https://sourceforge.net/projects/lotrocompanion/files/16/packages/17.xml/download"/>
-<packageUsage id="18" name="patch20.2.33.2.1" version="1" versionLabel="1.0" descriptionUrl="https://sourceforge.net/projects/lotrocompanion/files/16/packages/18.xml/download"/>
-<packageUsage id="19" name="patch20.3.34.0" version="1" versionLabel="1.0" descriptionUrl="https://sourceforge.net/projects/lotrocompanion/files/16/packages/19.xml/download"/>
-<packageUsage id="20" name="patch20.3.34.1" version="1" versionLabel="1.0" descriptionUrl="https://sourceforge.net/projects/lotrocompanion/files/16/packages/20.xml/download"/>
+<?xml version="1.0" encoding="UTF-8"?><software id="0" name="LotRO Lore Database" version="1011" versionLabel="SoA Book 11 - 1.0.0" date="1671487266041" contentsDescription="LotRO Lore Database" descriptionURL="https://sourceforge.net/projects/lotrocompanion/files/loredb/software.xml/download">
+<packageUsage id="0" name="data" version="1" versionLabel="1.0" descriptionUrl="https://sourceforge.net/projects/lotrocompanion/files/loredb/packages/0.xml/download"/>
+<packageUsage id="1" name="lib" version="1" versionLabel="1.0" descriptionUrl="https://sourceforge.net/projects/lotrocompanion/files/loredb/packages/1.xml/download"/>
+<packageUsage id="2" name="main" version="1" versionLabel="1.0" descriptionUrl="https://sourceforge.net/projects/lotrocompanion/files/loredb/packages/2.xml/download"/>
 </software>

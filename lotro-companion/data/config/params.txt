@@ -1,14 +1,14 @@
 # Default server to use in the new toon window (OPTIONAL)
-default.server=Landroval
+default.server=EoA1
 
 # Max character level
-max.character.level=140
+max.character.level=50
 # Max virtue rank
-max.virtue.rank=84
+max.virtue.rank=20
 # Max item level for a legendary item
 max.li.itemLevel=480
 
 # Current version
-current.version.id=2031
-current.version.name=20.3 Update 34.1
-current.version.date=08/12/2022
+current.version.id=1011
+current.version.name=SoA Book 11 - 1.0.0
+current.version.date=19/12/2022

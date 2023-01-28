@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><package id="2" name="main" version="1" versionLabel="1.0">
-<sourceURL URL="https://sourceforge.net/projects/lotrocompanion/files/16/packages/2.zip/download"/>
-<archive path="2.zip" size="2439066" crc="579401274">
+<sourceURL URL="https://sourceforge.net/projects/lotrocompanion/files/loredb/packages/2.zip/download"/>
+<archive path="2.zip" size="2885680" crc="1417757609">
 <directory name="doc">
-<file name="HISTORY.txt" size="12945" crc="1409608657"/>
+<file name="HISTORY.txt" size="25205" crc="2764526608"/>
 <file name="LICENSE.txt" size="11560" crc="1231013273"/>
 <directory name="licenses">
 <directory name="jcommon">
@@ -20,7 +20,7 @@
 <file name="license.txt" size="1173" crc="2924063616"/>
 </directory>
 </directory>
-<file name="NOTICE.txt" size="896" crc="3356817292"/>
+<file name="NOTICE.txt" size="933" crc="1559302170"/>
 <file name="THANKS.txt" size="743" crc="3507565190"/>
 </directory>
 <directory name="kickstarter">
@@ -36,11 +36,12 @@
 <file name="httpcore-4.4.9.jar" size="325500" crc="971931856"/>
 <file name="httpcore-nio-4.4.10.jar" size="365812" crc="1365616451"/>
 <file name="log4j-1.2.14.jar" size="367444" crc="1627829320"/>
+<file name="log4j-1.2.17.jar" size="489883" crc="732536311"/>
 </directory>
-<file name="launcher.xml" size="1709" crc="2228722384"/>
-<file name="logback.xml" size="5670" crc="3805313890"/>
-<file name="LotRO Companion.cfg" size="784" crc="3385500932"/>
-<file name="LotroCompanion.sh" size="1032" crc="1369137932"/>
-<file name="README.txt" size="2811" crc="3854435410"/>
+<file name="launcher.xml" size="1545" crc="1522509494"/>
+<file name="logback.xml" size="5602" crc="553117575"/>
+<file name="LotRO Lore Database.cfg" size="827" crc="3422285149"/>
+<file name="LotroLoreDatabase.sh" size="1048" crc="719065566"/>
+<file name="README.txt" size="2799" crc="1444043345"/>
 </archive>
 </package>

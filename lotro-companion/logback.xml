@@ -3,13 +3,13 @@
 
 	<jmxConfigurator />
 
-	<contextName>LC</contextName>
+	<contextName>LC-SOA</contextName>
 
 	<contextListener class="ch.qos.logback.classic.jul.LevelChangePropagator"/>
 	<contextListener class="delta.games.lotro.utils.logback.LoggerStartupListener"/>
 
-	<property name="LOG_DIR" value="${DATA_HOME}/.lotrocompanion/data/logs" />
-	<property name="LOG_FILENAME" value="${LOG_DIR}/lotrocompanion" />
+	<property name="LOG_DIR" value="${DATA_HOME}/.lotrocompanion_soa/data/logs" />
+	<property name="LOG_FILENAME" value="${LOG_DIR}/lotrocompanion_soa" />
 
 	<!-- Rolling file appender -->
 	<appender name="TIME_BASED_FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">
@@ -91,7 +91,6 @@
 	<logger name="delta.games.lotro"                               level="WARN"/>
 	<logger name="delta.games.lotro.dat"                           level="WARN"/>
 	<logger name="delta.games.lotro.gui"                           level="WARN"/>
-	<logger name="delta.games.lotro.interceptor"                   level="WARN"/>
 	<logger name="ENVIRONMENT"                                     level="DEBUG"/>
 
 	<!-- ********************** COTS ****************** -->

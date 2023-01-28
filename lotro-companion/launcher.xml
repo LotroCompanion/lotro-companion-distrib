@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><launcherConfig mainClass="delta.games.lotro.Main" rootDir="lib">
 <classpath>
 <classpathEntry path="patches"/>
-<classpathEntry path="delta-lotro-companion-20.3.jar"/>
+<classpathEntry path="delta-lotro-companion-20.4.jar"/>
 <classpathEntry path="delta-lotro-memory-5.10.jar"/>
 <classpathEntry path="delta-lotro-data-extractor-5.9.jar"/>
-<classpathEntry path="delta-lotro-dat-utils-8.0.1.jar"/>
+<classpathEntry path="delta-lotro-dat-utils-9.0.jar"/>
 <classpathEntry path="delta-json-1.1.1.jar"/>
-<classpathEntry path="delta-lotro-core-20.3.jar"/>
+<classpathEntry path="delta-lotro-core-20.4.jar"/>
 <classpathEntry path="delta-lotro-maps-3.4.jar"/>
 <classpathEntry path="delta-common-1.7.2.jar"/>
 <classpathEntry path="delta-common-l10n-1.0.jar"/>
@@ -26,12 +26,8 @@
 <classpathEntry path="effectIcons.zip"/>
 <classpathEntry path="emoteIcons.zip"/>
 <classpathEntry path="itemIcons.zip"/>
-<classpathEntry path="legaciesIcons.zip"/>
-<classpathEntry path="relicIcons.zip"/>
 <classpathEntry path="skillIcons.zip"/>
 <classpathEntry path="titleIcons.zip"/>
 <classpathEntry path="traitIcons.zip"/>
-<classpathEntry path="miscIcons.zip"/>
-<classpathEntry path="hobbyIcons.zip"/>
 </classpath>
 </launcherConfig>
