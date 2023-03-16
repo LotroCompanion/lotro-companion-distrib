@@ -1,6 +1,42 @@
 LOTRO Companion
 Release Notes / History
 
+20.5.34.3 (13/03/2023)
+- new features:
+	- the directory for user data is now configurable
+	- import and display character position
+	- containers: added "open policy", "binding policy" and "scales on character level"
+	- added support for several subscription on the same account
+	- XML file for monster classes definition (not used yet)
+	- added a 'height map' on every map
+- updates/improvements
+	- data for Update 34.3
+	- added "import timestamp" for containers (vaults, bags, wallets)
+	- instances explorer window:
+		- added a filter on the "scalable" attribute
+		- added an "instance group" column/filter
+	- support for undefined branch on trait tree status
+	- added columns 'vocation' and 'profession' in the crafting synopsis table
+	- item display window: display weapon attributes (DPS, damage type, damage range)
+	- levels edition window: focus on tab for highest level
+	- added buttons "Check all"/"Uncheck all" in the import window
+	- update parameters: max LI item level (485) and max virtue tier (85)
+- bug fixes:
+	- quest context for "Before the Shadow" missions
+	- Fixed behaviour of multiply "armor" stats (see Guardian's Defence)
+	- Fixed display of small float stat values (for instance, short durations)
+- refactorings:
+	- use an XML-loaded armour type for mitigations, instead of an hard coded value
+	- use a SAX parser to improve loading behaviour (cpu and memory): quests, deeds, landblocks, currencies history
+	- major works for future support of several locales for data
+	- character classes are no more included in the code (XML only)
+	- character races are no more included in the code (XML only)
+	- initial gear is now defined in a dedicated XML file
+	- major revamp of trait trees management in character data
+	- support for both 'Live' and 'SoA' modes in the same code base
+(see also: https://github.com/LotroCompanion/lotro-companion/milestone/17
+       and https://github.com/LotroCompanion/lotro-companion/milestone/18)
+
 20.3.34.1.2 (11/01/2023)
 - updates/improvements
 	- data for Update 34.1.2

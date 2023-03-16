@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?><package id="22" name="patch20.5.34.3" version="1" versionLabel="1.0">
+<sourceURL URL="https://sourceforge.net/projects/lotrocompanion/files/16/packages/22.zip/download"/>
+<archive path="22.zip" size="88924758" crc="2649564978">
+<directory name="data">
+<directory name="config">
+<file name="params.txt" size="353" crc="3070994757"/>
+</directory>
+<directory name="lore">
+<file name="allegiances.xml" size="16186" crc="3186335780"/>
+<file name="barters.xml" size="6454627" crc="2491696412"/>
+<file name="billingGroups.xml" size="43761" crc="1097187565"/>
+<file name="classes.xml" size="68360" crc="3659394129"/>
+<file name="consumables.xml" size="487811" crc="3035809972"/>
+<file name="containers.xml" size="561836" crc="3417556704"/>
+<file name="cosmetics.xml" size="957110" crc="2250951805"/>
+<file name="crafting.xml" size="72670" crc="680869290"/>
+<file name="deeds.xml" size="4270490" crc="3402716180"/>
+<file name="emotes.xml" size="24941" crc="2700616327"/>
+<directory name="enums">
+<file name="AllegianceGroup.xml" size="161" crc="1519835940"/>
+<file name="BillingGroup.xml" size="29663" crc="3570792293"/>
+<file name="CraftTier.xml" size="656" crc="2744624384"/>
+<file name="DeedCategory.xml" size="2852" crc="3285861950"/>
+<file name="ItemUniquenessChannel.xml" size="19494" crc="2052960673"/>
+<file name="LegendaryTitleCategory.xml" size="7993" crc="99126653"/>
+<file name="LegendaryTitleTier.xml" size="188" crc="576439954"/>
+<file name="PaperItemCategory.xml" size="684" crc="2839582851"/>
+<file name="QuestCategory.xml" size="19696" crc="820603089"/>
+<file name="TraitTreeBranchType.xml" size="2196" crc="1214091421"/>
+<file name="TraitTreeType.xml" size="675" crc="2447716607"/>
+<file name="WJEncounterCategory.xml" size="1362" crc="226221859"/>
+<file name="WJEncounterType.xml" size="193" crc="419986507"/>
+<file name="WJInstanceGroup.xml" size="441" crc="1171887070"/>
+</directory>
+<file name="factions.xml" size="93219" crc="3973880126"/>
+<file name="hobbies.xml" size="105909" crc="3809098585"/>
+<file name="initialGear.xml" size="4135" crc="4062735598"/>
+<file name="instancesTree.xml" size="8476" crc="956392666"/>
+<file name="items.xml" size="65889021" crc="749831173"/>
+<directory name="labels">
+<directory name="de">
+<file name="allegiances.xml" size="2658" crc="2735967218"/>
+<file name="classes.xml" size="14761" crc="3033878296"/>
+<file name="crafting.xml" size="3888" crc="3429083291"/>
+<file name="deeds.xml" size="3732738" crc="3643217951"/>
+<file name="dungeons.xml" size="59597" crc="1196493801"/>
+<file name="emotes.xml" size="32708" crc="910455689"/>
+<file name="factions.xml" size="30231" crc="764354452"/>
+<file name="geoAreas.xml" size="30131" crc="1706622941"/>
+<file name="hobbies.xml" size="1024" crc="985572054"/>
+<file name="instances.xml" size="371228" crc="3256437221"/>
+<file name="items.xml" size="15821631" crc="3899459325"/>
+<file name="legendaryTitles.xml" size="28469" crc="3501524744"/>
+<file name="nationalities.xml" size="36566" crc="891851970"/>
+<file name="pets.xml" size="115606" crc="1011245203"/>
+<file name="quests.xml" size="32966586" crc="1010052378"/>
+<file name="races.xml" size="3352" crc="3322209472"/>
+<file name="rewardsTracks.xml" size="2842" crc="796550447"/>
+<file name="skills.xml" size="1148199" crc="885483339"/>
+<file name="titles.xml" size="930264" crc="1936789122"/>
+<file name="traits.xml" size="790118" crc="1653254524"/>
+<file name="webStoreItems.xml" size="1694" crc="1748152381"/>
+</directory>
+<directory name="en">
+<file name="allegiances.xml" size="2627" crc="1817250765"/>
+<file name="classes.xml" size="12531" crc="899149820"/>
+<file name="crafting.xml" size="3495" crc="2801056993"/>
+<file name="deeds.xml" size="3399317" crc="99141588"/>
+<file name="dungeons.xml" size="58028" crc="2814460962"/>
+<file name="emotes.xml" size="32816" crc="1404339248"/>
+<file name="factions.xml" size="27319" crc="1987889209"/>
+<file name="geoAreas.xml" size="29873" crc="1931595665"/>
+<file name="hobbies.xml" size="865" crc="3857645610"/>
+<file name="instances.xml" size="345194" crc="3058492175"/>
+<file name="items.xml" size="14050785" crc="672105755"/>
+<file name="legendaryTitles.xml" size="25058" crc="994588392"/>
+<file name="nationalities.xml" size="33497" crc="85613609"/>
+<file name="pets.xml" size="104867" crc="1031267832"/>
+<file name="quests.xml" size="29467564" crc="732946088"/>
+<file name="races.xml" size="2911" crc="363336494"/>
+<file name="rewardsTracks.xml" size="2017" crc="3452270545"/>
+<file name="skills.xml" size="1026282" crc="1221755201"/>
+<file name="titles.xml" size="761212" crc="4171075058"/>
+<file name="traits.xml" size="703345" crc="1827794932"/>
+<file name="webStoreItems.xml" size="1663" crc="3344978232"/>
+</directory>
+<directory name="fr">
+<file name="allegiances.xml" size="2705" crc="3470747629"/>
+<file name="classes.xml" size="14387" crc="240658057"/>
+<file name="crafting.xml" size="4095" crc="1698946060"/>
+<file name="deeds.xml" size="3751007" crc="4064437594"/>
+<file name="dungeons.xml" size="61056" crc="1507293462"/>
+<file name="emotes.xml" size="32899" crc="2285744075"/>
+<file name="factions.xml" size="30317" crc="2933842354"/>
+<file name="geoAreas.xml" size="30979" crc="3781168460"/>
+<file name="hobbies.xml" size="993" crc="1884475491"/>
+<file name="instances.xml" size="376897" crc="1948442281"/>
+<file name="items.xml" size="15903649" crc="4097620919"/>
+<file name="legendaryTitles.xml" size="27297" crc="1575997265"/>
+<file name="nationalities.xml" size="34737" crc="2835509721"/>
+<file name="pets.xml" size="115274" crc="4016498101"/>
+<file name="quests.xml" size="32743318" crc="220735235"/>
+<file name="races.xml" size="3287" crc="3533131336"/>
+<file name="rewardsTracks.xml" size="2852" crc="3804726592"/>
+<file name="skills.xml" size="1152683" crc="3381026030"/>
+<file name="titles.xml" size="904281" crc="3985464844"/>
+<file name="traits.xml" size="795895" crc="2799534209"/>
+<file name="webStoreItems.xml" size="1813" crc="1102488018"/>
+</directory>
+</directory>
+<file name="landblocks.xml" size="9961726" crc="4058088207"/>
+<file name="legendary_titles.xml" size="81065" crc="2890948443"/>
+<file name="loots.xml" size="13608139" crc="1447288510"/>
+<directory name="maps">
+<directory name="indexes">
+<directory name="did">
+<file name="1879449289.xml" size="5768" crc="904579993"/>
+<file name="1879456452.xml" size="4546" crc="3457052431"/>
+</directory>
+<directory name="layers">
+<file name="0.xml" size="52820821" crc="1386909296"/>
+<file name="268436663.xml" size="7483" crc="275283703"/>
+<file name="268436664.xml" size="5377" crc="2899810656"/>
+</directory>
+</directory>
+<directory name="markers">
+<file name="markers-1-13-5.xml" size="33521" crc="1633049246"/>
+<file name="markers-1-15-7.xml" size="141321" crc="1829149234"/>
+<file name="markers-2-1-6.xml" size="1168588" crc="3997972257"/>
+</directory>
+</directory>
+<file name="mobs.xml" size="1998192" crc="2588593098"/>
+<file name="monsterClasses.xml" size="66224" crc="4112960391"/>
+<file name="nationalities.xml" size="5090" crc="2830334521"/>
+<file name="paperItems.xml" size="69826" crc="1990584365"/>
+<file name="pets.xml" size="80987" crc="3755340947"/>
+<file name="privateEncounters.xml" size="528478" crc="1813580714"/>
+<file name="quests.xml" size="24161920" crc="431113530"/>
+<file name="races.xml" size="10867" crc="941784813"/>
+<file name="rewardsTracks.xml" size="80813" crc="3152688236"/>
+<file name="skills.xml" size="934745" crc="318882270"/>
+<file name="titles.xml" size="440912" crc="190213345"/>
+<file name="traceries.xml" size="1326424" crc="2126622973"/>
+<file name="traits.xml" size="784977" crc="1014076704"/>
+</directory>
+</directory>
+<directory name="doc">
+<file name="HISTORY.txt" size="27333" crc="760326055"/>
+<file name="THANKS.txt" size="728" crc="107633542"/>
+</directory>
+<file name="launcher.xml" size="1785" crc="3022349165"/>
+<directory name="lib">
+<file name="classes.zip" size="139176" crc="1116803945"/>
+<file name="delta-common-1.8.jar" size="215439" crc="3378996911"/>
+<file name="delta-lotro-companion-20.5.jar" size="3132376" crc="2130101918"/>
+<file name="delta-lotro-core-20.5.jar" size="2112946" crc="1089086886"/>
+<file name="delta-lotro-dat-utils-10.0.jar" size="929424" crc="888209218"/>
+<file name="delta-lotro-data-extractor-5.10.jar" size="106416" crc="2964401628"/>
+<file name="delta-lotro-maps-3.5.jar" size="171844" crc="458859865"/>
+<file name="delta-lotro-memory-5.11.jar" size="168753" crc="1994683796"/>
+<file name="itemIcons.zip" size="31787994" crc="1407391336"/>
+<directory name="patches">
+<file name="locations.properties" size="3030" crc="1543405544"/>
+</directory>
+<file name="races.zip" size="124194" crc="708862211"/>
+<file name="skillIcons.zip" size="6685097" crc="68980541"/>
+</directory>
+<file name="LotRO Companion.cfg" size="790" crc="1437042799"/>
+<file name="README.txt" size="2799" crc="3545203062"/>
+</archive>
+<delete path="lib/delta-common-1.7.2.jar"/>
+<delete path="lib/delta-lotro-companion-20.3.jar"/>
+<delete path="lib/delta-lotro-core-20.3.jar"/>
+<delete path="lib/delta-lotro-dat-utils-8.0.1.jar"/>
+<delete path="lib/delta-lotro-data-extractor-5.9.jar"/>
+<delete path="lib/delta-lotro-maps-3.4.jar"/>
+<delete path="lib/delta-lotro-memory-5.10.jar"/>
+</package>
