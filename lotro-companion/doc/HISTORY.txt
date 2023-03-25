@@ -1,6 +1,18 @@
 LOTRO Companion
 Release Notes / History
 
+20.6.35 (23/03/2023)
+- updates/improvements
+	- data for Update 35
+- bug fixes:
+	- use only one map window from the map button of the quests/deeds status windows
+	- fixed pointers for the "import from client" feature
+- refactorings:
+	- mounts and pets are considered as skills
+	- enums and i18n for mounts
+	- avoid code duplication to display a form in a navigation window
+(see also: https://github.com/LotroCompanion/lotro-companion/milestone/19?closed=1)
+
 20.5.34.3 (13/03/2023)
 - new features:
 	- the directory for user data is now configurable
