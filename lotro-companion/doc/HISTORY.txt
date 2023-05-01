@@ -1,6 +1,27 @@
 LOTRO Companion
 Release Notes / History
 
+20.7.35.1 (22/04/2023)
+- updates/improvements
+	- data for Update 35.1
+	- items explorer: keep selected columns (and their order)
+	- add a way to export item icons feature
+	- recipes: include support for 'ingredient packs' enhancement recipes
+	- add a user-editable label for accounts/subscriptions
+	- mounts explorer: add a filter on mount type
+	- add a filter on "contents pack" for quests and deeds
+- bug fixes:
+	- fixed pointers for the "import from client" feature
+	- check l10n format of DPS display
+	- since Update 35, regen values are per second, instead of per minute
+	- tracery "Scribe's Spark Damage & Cooldown" (1879431608) shall use 2 fractional digits for value
+	- fix stats scaling for some consumables
+- refactorings:
+	- use enums in Recipe l10n recipes
+	- remove ID in cosmetic sets item cosmetics
+	- 18n for deeds deeds l10n quests
+(see also: https://github.com/LotroCompanion/lotro-companion/milestone/20?closed=1)
+
 20.6.35 (23/03/2023)
 - updates/improvements
 	- data for Update 35

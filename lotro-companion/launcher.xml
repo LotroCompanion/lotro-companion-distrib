@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><launcherConfig mainClass="delta.games.lotro.Main" rootDir="lib">
 <classpath>
 <classpathEntry path="patches"/>
-<classpathEntry path="delta-lotro-companion-20.6.jar"/>
-<classpathEntry path="delta-lotro-memory-5.12.jar"/>
+<classpathEntry path="delta-lotro-companion-20.7.jar"/>
+<classpathEntry path="delta-lotro-memory-5.13.jar"/>
 <classpathEntry path="delta-lotro-data-extractor-5.10.jar"/>
 <classpathEntry path="delta-lotro-dat-utils-10.0.jar"/>
 <classpathEntry path="delta-json-1.1.1.jar"/>
-<classpathEntry path="delta-lotro-core-20.6.jar"/>
+<classpathEntry path="delta-lotro-core-20.7.jar"/>
 <classpathEntry path="delta-lotro-maps-3.5.jar"/>
 <classpathEntry path="delta-common-1.8.jar"/>
 <classpathEntry path="delta-common-l10n-1.0.jar"/>
