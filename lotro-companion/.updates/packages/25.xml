@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?><package id="25" name="patch20.8.35.1.2" version="1" versionLabel="1.0">
+<sourceURL URL="https://sourceforge.net/projects/lotrocompanion/files/16/packages/25.zip/download"/>
+<archive path="25.zip" size="69519724" crc="2745586065">
+<directory name="data">
+<directory name="config">
+<file name="params.txt" size="424" crc="3698701469"/>
+</directory>
+<directory name="lore">
+<file name="barters.xml" size="6574717" crc="523253358"/>
+<file name="containers.xml" size="592216" crc="495323916"/>
+<file name="cosmetics.xml" size="882613" crc="3503561552"/>
+<file name="disenchantments.xml" size="3284156" crc="3393541432"/>
+<directory name="enums">
+<file name="AgentClass.xml" size="10759" crc="2914314611"/>
+<file name="Alignment.xml" size="325" crc="1092256225"/>
+<file name="BillingGroup.xml" size="28327" crc="1667327302"/>
+<file name="CraftingUICategory.xml" size="26038" crc="1694556776"/>
+<file name="CraftTier.xml" size="849" crc="2104684908"/>
+<file name="DeedCategory.xml" size="3531" crc="943538231"/>
+<file name="Difficulty.xml" size="598" crc="1867216023"/>
+<file name="EquipmentCategory.xml" size="2143" crc="1591285039"/>
+<file name="Genus.xml" size="935" crc="686535311"/>
+<file name="GroupSize.xml" size="481" crc="1113245489"/>
+<file name="ItemClass.xml" size="20692" crc="3786027548"/>
+<file name="LegendaryTitleCategory.xml" size="6573" crc="3133621"/>
+<file name="LegendaryTitleTier.xml" size="239" crc="4148717596"/>
+<file name="MobType.xml" size="1813" crc="3507390010"/>
+<file name="MountType.xml" size="822" crc="28089563"/>
+<file name="PaperItemCategory.xml" size="830" crc="1739053355"/>
+<file name="QuestCategory.xml" size="20724" crc="1176122295"/>
+<file name="SkillCategory.xml" size="6450" crc="2249964799"/>
+<file name="SkillCharacteristicSubCategory.xml" size="549" crc="3149483049"/>
+<file name="SocketType.xml" size="1127" crc="4170731607"/>
+<file name="Species.xml" size="6006" crc="2175607570"/>
+<file name="SubSpecies.xml" size="36413" crc="691525020"/>
+<file name="TraitNature.xml" size="1482" crc="1603450153"/>
+<file name="TraitTreeBranchType.xml" size="2936" crc="3198180525"/>
+<file name="TraitTreeType.xml" size="951" crc="1937874852"/>
+<file name="WJEncounterCategory.xml" size="1739" crc="1985589636"/>
+<file name="WJInstanceGroup.xml" size="484" crc="1936802587"/>
+</directory>
+<file name="items.xml" size="66444804" crc="1184900818"/>
+<directory name="labels">
+<directory name="de">
+<file name="deeds.xml" size="4236385" crc="647883055"/>
+<file name="emotes.xml" size="32879" crc="890002658"/>
+<file name="enum-AgentClass.xml" size="12840" crc="1546913423"/>
+<file name="enum-Alignment.xml" size="287" crc="2567864606"/>
+<file name="enum-BillingGroup.xml" size="9341" crc="120646716"/>
+<file name="enum-CraftingUICategory.xml" size="37921" crc="3955315512"/>
+<file name="enum-CraftTier.xml" size="867" crc="808975221"/>
+<file name="enum-DeedCategory.xml" size="4343" crc="2330756180"/>
+<file name="enum-Difficulty.xml" size="639" crc="3436658978"/>
+<file name="enum-EquipmentCategory.xml" size="2593" crc="3990304383"/>
+<file name="enum-Genus.xml" size="1066" crc="2792752434"/>
+<file name="enum-GroupSize.xml" size="444" crc="525100929"/>
+<file name="enum-ItemClass.xml" size="18739" crc="2744552841"/>
+<file name="enum-LegendaryTitleCategory.xml" size="11619" crc="1015722475"/>
+<file name="enum-LegendaryTitleTier.xml" size="239" crc="3705806609"/>
+<file name="enum-MobType.xml" size="1683" crc="3404736721"/>
+<file name="enum-MountType.xml" size="637" crc="2861173008"/>
+<file name="enum-PaperItemCategory.xml" size="966" crc="3851318109"/>
+<file name="enum-QuestCategory.xml" size="28494" crc="141634102"/>
+<file name="enum-SkillCategory.xml" size="8763" crc="3590593808"/>
+<file name="enum-SkillCharacteristicSubCategory.xml" size="610" crc="185036466"/>
+<file name="enum-SocketType.xml" size="596" crc="2080507358"/>
+<file name="enum-Species.xml" size="6215" crc="3177205735"/>
+<file name="enum-SubSpecies.xml" size="28216" crc="1099395692"/>
+<file name="enum-TraitNature.xml" size="1671" crc="3529573020"/>
+<file name="enum-TraitTreeBranchType.xml" size="3491" crc="1465687053"/>
+<file name="enum-TraitTreeType.xml" size="1047" crc="2109843661"/>
+<file name="enum-WJEncounterCategory.xml" size="2038" crc="115769996"/>
+<file name="enum-WJInstanceGroup.xml" size="596" crc="2000149461"/>
+<file name="items.xml" size="15966469" crc="2940188794"/>
+<file name="quests.xml" size="34272340" crc="4282197966"/>
+<file name="rewardsTracks.xml" size="3232" crc="1388204321"/>
+<file name="skills.xml" size="1254452" crc="479251827"/>
+<file name="titles.xml" size="949713" crc="536085700"/>
+<file name="traits.xml" size="795332" crc="4161533803"/>
+</directory>
+<directory name="en">
+<file name="enum-AgentClass.xml" size="12229" crc="1234246871"/>
+<file name="enum-Alignment.xml" size="287" crc="3535220193"/>
+<file name="enum-BillingGroup.xml" size="8353" crc="3977364041"/>
+<file name="enum-CraftingUICategory.xml" size="36102" crc="693584027"/>
+<file name="enum-CraftTier.xml" size="858" crc="3694700551"/>
+<file name="enum-DeedCategory.xml" size="4285" crc="1606365766"/>
+<file name="enum-Difficulty.xml" size="629" crc="4110692441"/>
+<file name="enum-EquipmentCategory.xml" size="2510" crc="384272200"/>
+<file name="enum-Genus.xml" size="1042" crc="549344799"/>
+<file name="enum-GroupSize.xml" size="413" crc="520511294"/>
+<file name="enum-ItemClass.xml" size="17718" crc="1650658875"/>
+<file name="enum-LegendaryTitleCategory.xml" size="10529" crc="4196194850"/>
+<file name="enum-LegendaryTitleTier.xml" size="236" crc="2139152219"/>
+<file name="enum-MobType.xml" size="1652" crc="1019230392"/>
+<file name="enum-MountType.xml" size="624" crc="1439447156"/>
+<file name="enum-PaperItemCategory.xml" size="923" crc="3456148881"/>
+<file name="enum-QuestCategory.xml" size="28070" crc="1111295699"/>
+<file name="enum-SkillCategory.xml" size="8298" crc="2027521814"/>
+<file name="enum-SkillCharacteristicSubCategory.xml" size="598" crc="500277586"/>
+<file name="enum-SocketType.xml" size="569" crc="4262148437"/>
+<file name="enum-Species.xml" size="6118" crc="2221799806"/>
+<file name="enum-SubSpecies.xml" size="27660" crc="1447424873"/>
+<file name="enum-TraitNature.xml" size="1616" crc="4144838533"/>
+<file name="enum-TraitTreeBranchType.xml" size="3368" crc="1788476657"/>
+<file name="enum-TraitTreeType.xml" size="1035" crc="3054254330"/>
+<file name="enum-WJEncounterCategory.xml" size="2009" crc="736823366"/>
+<file name="enum-WJInstanceGroup.xml" size="586" crc="549608294"/>
+<file name="items.xml" size="14185772" crc="2881391842"/>
+<file name="rewardsTracks.xml" size="2407" crc="2131754992"/>
+<file name="skills.xml" size="1128298" crc="57113242"/>
+</directory>
+<directory name="fr">
+<file name="emotes.xml" size="33059" crc="1820818335"/>
+<file name="enum-AgentClass.xml" size="12889" crc="2788369839"/>
+<file name="enum-Alignment.xml" size="293" crc="3147229220"/>
+<file name="enum-BillingGroup.xml" size="9280" crc="3120716742"/>
+<file name="enum-CraftingUICategory.xml" size="39164" crc="3633006519"/>
+<file name="enum-CraftTier.xml" size="873" crc="706299912"/>
+<file name="enum-DeedCategory.xml" size="4397" crc="3774445638"/>
+<file name="enum-Difficulty.xml" size="649" crc="419329409"/>
+<file name="enum-EquipmentCategory.xml" size="2629" crc="3085342791"/>
+<file name="enum-Genus.xml" size="1046" crc="3148904214"/>
+<file name="enum-GroupSize.xml" size="416" crc="4253983634"/>
+<file name="enum-ItemClass.xml" size="19352" crc="2350082090"/>
+<file name="enum-LegendaryTitleCategory.xml" size="11857" crc="2870154617"/>
+<file name="enum-LegendaryTitleTier.xml" size="242" crc="3733048381"/>
+<file name="enum-MobType.xml" size="1743" crc="154646788"/>
+<file name="enum-MountType.xml" size="646" crc="4282716021"/>
+<file name="enum-PaperItemCategory.xml" size="948" crc="3154416686"/>
+<file name="enum-QuestCategory.xml" size="29685" crc="2170920828"/>
+<file name="enum-SkillCategory.xml" size="9064" crc="140639588"/>
+<file name="enum-SkillCharacteristicSubCategory.xml" size="653" crc="2977417345"/>
+<file name="enum-SocketType.xml" size="593" crc="3155027715"/>
+<file name="enum-Species.xml" size="6344" crc="1255537081"/>
+<file name="enum-SubSpecies.xml" size="29021" crc="614266166"/>
+<file name="enum-TraitNature.xml" size="1673" crc="3769158360"/>
+<file name="enum-TraitTreeBranchType.xml" size="3427" crc="1930695048"/>
+<file name="enum-TraitTreeType.xml" size="1084" crc="2398646200"/>
+<file name="enum-WJEncounterCategory.xml" size="2037" crc="3786664814"/>
+<file name="enum-WJInstanceGroup.xml" size="615" crc="1554902582"/>
+<file name="items.xml" size="16058737" crc="2579709899"/>
+<file name="rewardsTracks.xml" size="3242" crc="1368255046"/>
+<file name="skills.xml" size="1259629" crc="3925991707"/>
+<file name="titles.xml" size="923148" crc="316163010"/>
+<file name="traits.xml" size="801488" crc="863150970"/>
+</directory>
+</directory>
+<file name="loots.xml" size="14244380" crc="2830728009"/>
+<directory name="maps">
+<directory name="indexes">
+<directory name="did">
+<file name="1879453609.xml" size="2414" crc="123430083"/>
+<file name="1879456523.xml" size="3506" crc="1508864615"/>
+<file name="1879456524.xml" size="5144" crc="3139478480"/>
+</directory>
+<directory name="layers">
+<file name="0.xml" size="56715719" crc="856763964"/>
+<file name="268436720.xml" size="12969" crc="2478688237"/>
+</directory>
+</directory>
+<directory name="markers">
+<file name="markers-1-15-15.xml" size="411627" crc="2238389274"/>
+<file name="markers-1-8-6.xml" size="9794921" crc="1458195627"/>
+</directory>
+</directory>
+<file name="mobs.xml" size="2019441" crc="4200545443"/>
+<file name="progressions.xml" size="5554003" crc="836071906"/>
+<file name="recipes.xml" size="12200963" crc="1572712150"/>
+<file name="rewardsTracks.xml" size="96992" crc="2405339960"/>
+<file name="skills.xml" size="1090827" crc="892046105"/>
+</directory>
+</directory>
+<directory name="doc">
+<file name="HISTORY.txt" size="29347" crc="3812697759"/>
+</directory>
+<file name="launcher.xml" size="1785" crc="3760983980"/>
+<directory name="lib">
+<file name="delta-lotro-companion-20.8.jar" size="3162931" crc="3649081098"/>
+<file name="delta-lotro-core-20.8.jar" size="2108437" crc="3478504096"/>
+<file name="delta-lotro-memory-5.14.jar" size="168750" crc="523067033"/>
+<file name="emoteIcons.zip" size="620832" crc="3342280094"/>
+<file name="itemIcons.zip" size="32138534" crc="4174690422"/>
+<file name="skillIcons.zip" size="6639824" crc="472081509"/>
+</directory>
+<file name="LotRO Companion.cfg" size="792" crc="3600230768"/>
+<file name="README.txt" size="2801" crc="124877329"/>
+</archive>
+<delete path="lib/delta-lotro-companion-20.7.jar"/>
+<delete path="lib/delta-lotro-core-20.7.jar"/>
+<delete path="lib/delta-lotro-memory-5.13.jar"/>
+</package>
