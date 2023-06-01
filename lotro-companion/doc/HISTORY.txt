@@ -1,6 +1,43 @@
 LOTRO Companion
 Release Notes / History
 
+20.9.36 (01/06/2023)
+- updates/improvements
+	- data for Update 36
+	- editable free-text "notes" on each character
+	- items explorer: added a filter on damage type for weapons compendium enhancement
+	- NPCs database (no UI yet)
+	- load/save "account on server" ID from/to an XML file (no UI yet)
+	- minimal support for the "Guardian's Ward' effect
+	- support for "crafting status" requirements (for instance required profession and/or required tier)
+	- recipes status: be able to ignore/hide some manually (blacklist, same as for quests/deeds)
+- bug fixes:
+	- bad display of quests completion counts in the quests status table
+	- fix on rewards tracks import: do not reset the status of old rewards tracks
+- refactorings/features for future multi-language support:
+	- i18n for stats
+	- i18n for faction tiers
+	- i18n for mobs
+	- i18n for items sets
+	- i18n for collections
+	- i18n for GearSlot
+	- i18n for EquipmentLocation
+	- i18n for virtues
+	- i18n for ItemQuality
+	- i18n for the custom "enum" WeaponType
+	- i18n for the custom "enum" ArmourType
+	- i18n for ItemSturdiness
+	- i18n for ItemBinding
+	- use a LOTRO enum for damage types
+	- i18n for the custom enum DeedType
+	- i18n for quests and deeds names
+	- i18n for genders
+	- i18n for enums
+	- i18N for recipes
+	- character class definitions: add an attribute for the one letter tag
+	- race definitions: add an attribute for the one letter tag
+(see also: https://github.com/LotroCompanion/lotro-companion/milestone/22?closed=1)
+
 20.8.35.1.2 (04/05/2023)
 - updates/improvements
 	- data for Update 35.1.2
@@ -19,8 +56,8 @@ Release Notes / History
 - updates/improvements
 	- data for Update 35.1
 	- items explorer: keep selected columns (and their order)
-	- add a way to export item icons feature
-	- recipes: include support for 'ingredient packs' enhancement recipes
+	- add a way to export item icons
+	- recipes: include support for 'ingredient packs'
 	- add a user-editable label for accounts/subscriptions
 	- mounts explorer: add a filter on mount type
 	- add a filter on "contents pack" for quests and deeds
@@ -31,9 +68,9 @@ Release Notes / History
 	- tracery "Scribe's Spark Damage & Cooldown" (1879431608) shall use 2 fractional digits for value
 	- fix stats scaling for some consumables
 - refactorings:
-	- use enums in Recipe l10n recipes
-	- remove ID in cosmetic sets item cosmetics
-	- 18n for deeds deeds l10n quests
+	- use enums in Recipe
+	- remove ID in cosmetic sets
+	- 18n for deeds deeds
 (see also: https://github.com/LotroCompanion/lotro-companion/milestone/20?closed=1)
 
 20.6.35 (23/03/2023)
