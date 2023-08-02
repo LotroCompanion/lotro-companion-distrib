@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><package id="28" name="patch20.10.36.1.1" version="1" versionLabel="1.0">
+<sourceURL URL="https://sourceforge.net/projects/lotrocompanion/files/16/packages/28.zip/download"/>
+<archive path="28.zip" size="173846" crc="3644662511">
+<directory name="lib">
+<file name="delta-common-ui-1.24.jar" size="201063" crc="584595067"/>
+</directory>
+</archive>
+</package>

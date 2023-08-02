@@ -1,6 +1,42 @@
 LOTRO Companion
 Release Notes / History
 
+20.10.36.1 (13/07/2023)
+- updates/improvements
+	- data for Update 36.1
+	- Landmarks database
+	- Handle effect descriptions
+	- Handle generic item "equipper" effects
+- bug fixes:
+	- Items sets: take care of items unicity
+- refactorings:
+	- Code: reduce usage of object proxies
+	- Use geographic elements (Area, Region, ...) in MonsterDiedCondition
+	- Structured representation of 'where' in MobSelection
+	- Use NpcDescription for quest conditions and roles
+	- Use MobDescription for quest conditions
+	- Rely on the NPCs database for barterers/vendors
+- refactorings/features for future multi-language support:
+	- Setup i18n for the LC application
+	- Generic tree-ish context for UIs
+	- Context rendering for titles l10n
+	- Contextual rendering : quests and deeds display
+	- I18n for quest completion comments
+	- Contextual rendering: faction names
+	- Contextual rendering: faction tier names
+	- I18n for special effects
+	- I18N for stat description overrides
+	- I18N for monster class descriptions
+	- I18n for barter profiles
+	- I18n for relics
+	- Enum for relic types
+	- I18N for parchment maps
+	- I18n for NPCs
+	- Enum for relic categories
+	- I18n for buffs based on consumables
+	- I18n for buffs based on effects
+(see also: https://github.com/LotroCompanion/lotro-companion/milestone/23?closed=1)
+
 20.9.36 (01/06/2023)
 - updates/improvements
 	- data for Update 36
