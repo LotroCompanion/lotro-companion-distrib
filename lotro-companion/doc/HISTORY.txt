@@ -1,6 +1,33 @@
 LOTRO Companion
 Release Notes / History
 
+20.11.37 (01/09/2023)
+- new features:
+	- support for several languages for data labels (fr,de,ru in addition to en)
+	- support for several languages for application labels (fr in addition to en)
+	  Application translation is far from complete.
+	  Use the Settings dialog to set the language to use.
+	- support for weapon DPS
+		- items table
+		- items form
+		- item scaling table
+	- detailed display selection for maps
+- updates/improvements:
+	- data for Update 37
+	- detailed "body" contributions
+	- items explorer:
+		- filter on scalable items
+		- new columns: damage type, DPS
+	- improve hyperlinks for rewards display: virtue, item and trait text are now links
+- bug fixes:
+	- get rid of default +10% on all partial mitigations
+	- fixes/improvements in the item scaling table
+	- use basemap layer for instance maps with a geobox
+	- stash table: fetch the user comment in the instance (not in the item)
+- refactorings:
+	- some code changes to adapt to the version "Lotro Lore Database (SoA Book11)"
+(see also: https://github.com/LotroCompanion/lotro-companion/milestone/24?closed=1)
+
 20.10.36.1 (13/07/2023)
 - updates/improvements
 	- data for Update 36.1
