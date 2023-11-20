@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><package id="31" name="patch21.0.38" version="1" versionLabel="1.0">
+<sourceURL URL="https://sourceforge.net/projects/lotrocompanion/files/16/packages/31.zip/download"/>
+<archive path="31.zip" size="6018000" crc="4063634684">
+<directory name="data">
+<directory name="config">
+<file name="params.txt" size="422" crc="3260550301"/>
+</directory>
+<directory name="lore">
+<file name="items.xml" size="65742091" crc="3887851106"/>
+<file name="legendaryAttributes.xml" size="111891" crc="4015492756"/>
+</directory>
+</directory>
+<directory name="lib">
+<file name="delta-lotro-core-21.0.jar" size="2249834" crc="1531768439"/>
+</directory>
+</archive>
+</package>

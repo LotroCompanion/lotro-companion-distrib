@@ -1,6 +1,37 @@
 LOTRO Companion
 Release Notes / History
 
+21.0.38 (11/11/2023)
+- new features:
+	- Detailed description of effects for items, sets and skills
+- updates/improvements:
+	- data for Update 38 : level cap, virtue max tier, LI max tier, new faction, new maps, ...
+	- Items display:
+		- improve the display of available essence slots
+		- display effects
+		- display duration and cooldown for consumables
+		- Handle "Requires Monsterplay" and "Requires Glory Rank X"
+		- Handle damage range for scaling weapons
+		- Handle "slayer" modifiers on weapons
+		- Handle "glory rank" usage requirements
+		- Handle "effect" usage requirements (like "Monster Play", "Participating in a Skirmish", ...)
+	- Sets display:
+		- display effects
+	- Essences:
+		- handle essence types (Vital, Primary, Necklace, Cloak, War, ...)
+		- use different background icons for different essence types
+	- Traceries:
+		- use background and overlay icons
+	- Crafting:
+		- fixes to handle the removal of vocations
+	- some i18n
+- bug fixes:
+	- Rewards tracks import: import not performed when some values are not present or 0 bug import rewards track
+- refactorings:
+	- handle patch files for EoA
+	- essences are now a subclass of items
+(see also: https://github.com/LotroCompanion/lotro-companion/milestone/25?closed=1)
+
 20.11.37 (01/09/2023)
 - new features:
 	- support for several languages for data labels (fr,de,ru in addition to en)

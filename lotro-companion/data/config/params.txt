@@ -2,16 +2,16 @@
 default.server=Landroval
 
 # Max character level
-max.character.level=140
+max.character.level=150
 # Max virtue rank
-max.virtue.rank=86
+max.virtue.rank=90
 # Max item level for a legendary item
-max.li.itemLevel=490
+max.li.itemLevel=515
 
 # Current version
-current.version.id=2110
-current.version.name=20.11 Update 37
-current.version.date=01/09/2023
+current.version.id=2139
+current.version.name=21.0.1 Update 38
+current.version.date=11/11/2023
 
 # User data
 user.data.root.dir=${user.home}/.lotrocompanion/data
