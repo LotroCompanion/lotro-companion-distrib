@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><package id="32" name="patch21.0.38" version="1" versionLabel="1.0">
+<sourceURL URL="https://sourceforge.net/projects/lotrocompanion/files/16/packages/32.zip/download"/>
+<archive path="32.zip" size="105045700" crc="1980375018">
+<directory name="data">
+<directory name="lore">
+<file name="allegiances.xml" size="21671" crc="1964481477"/>
+<file name="barters.xml" size="7117634" crc="2234894955"/>
+<file name="containers.xml" size="611369" crc="2254972121"/>
+<file name="cosmetics.xml" size="895563" crc="1505356548"/>
+<file name="deeds.xml" size="4796246" crc="1280012649"/>
+<file name="disenchantments.xml" size="3693381" crc="405696838"/>
+<file name="dungeons.xml" size="181273" crc="707790184"/>
+<directory name="enums">
+<file name="ResistCategory.xml" size="790" crc="1252497670"/>
+</directory>
+<file name="items.xml" size="65757424" crc="2187575202"/>
+<directory name="labels">
+<directory name="de">
+<file name="barterers.xml" size="195478" crc="2228200851"/>
+<file name="enum-ResistCategory.xml" size="881" crc="1625507243"/>
+<file name="items.xml" size="16988694" crc="3789919869"/>
+<file name="mobs.xml" size="920902" crc="2400913705"/>
+<file name="npc.xml" size="898090" crc="469170091"/>
+<file name="parchmentMaps.xml" size="10462" crc="806958865"/>
+<file name="quests.xml" size="37638166" crc="1411325162"/>
+<file name="skills.xml" size="1302847" crc="4025506422"/>
+<file name="traits.xml" size="962860" crc="4111815423"/>
+</directory>
+<directory name="en">
+<file name="barterers.xml" size="175394" crc="1624487361"/>
+<file name="enum-CraftingUICategory.xml" size="36321" crc="322731221"/>
+<file name="enum-ResistCategory.xml" size="867" crc="1292468628"/>
+<file name="items.xml" size="15078899" crc="3903171794"/>
+<file name="itemsSets.xml" size="296238" crc="2983499774"/>
+<file name="mobs.xml" size="882209" crc="4076125089"/>
+<file name="npc.xml" size="873990" crc="1865619496"/>
+<file name="parchmentMaps.xml" size="10240" crc="2658027373"/>
+<file name="quests.xml" size="33784218" crc="3024256178"/>
+<file name="skills.xml" size="1171556" crc="1069553200"/>
+<file name="traits.xml" size="856540" crc="3160309022"/>
+</directory>
+<directory name="fr">
+<file name="barterers.xml" size="204472" crc="3218209552"/>
+<file name="effects.xml" size="990996" crc="596728123"/>
+<file name="enum-ResistCategory.xml" size="882" crc="2467164258"/>
+<file name="items.xml" size="17097956" crc="2231383522"/>
+<file name="itemsSets.xml" size="336654" crc="551707047"/>
+<file name="mobs.xml" size="943048" crc="4157181052"/>
+<file name="npc.xml" size="907159" crc="1559542770"/>
+<file name="parchmentMaps.xml" size="10703" crc="1244215478"/>
+<file name="quests.xml" size="37489428" crc="2648460354"/>
+<file name="skills.xml" size="1307465" crc="3539000417"/>
+<file name="traits.xml" size="972732" crc="2905851468"/>
+</directory>
+</directory>
+<file name="landblocks.xml" size="10433636" crc="1296797503"/>
+<file name="loots.xml" size="14694304" crc="1742190533"/>
+<directory name="maps">
+<directory name="indexes">
+<directory name="did">
+<file name="1879054949.xml" size="1549159" crc="4267234313"/>
+<file name="1879061257.xml" size="1668995" crc="907112796"/>
+<file name="1879061342.xml" size="1653549" crc="3434478900"/>
+<file name="1879061399.xml" size="1556935" crc="3136088625"/>
+<file name="1879061415.xml" size="1620321" crc="1814817451"/>
+<file name="1879061417.xml" size="1673023" crc="4063054134"/>
+<file name="1879061418.xml" size="1549159" crc="2093393173"/>
+<file name="1879063919.xml" size="93432" crc="2483225683"/>
+<file name="1879063926.xml" size="56832" crc="1304521496"/>
+<file name="1879063935.xml" size="91022" crc="2714785124"/>
+<file name="1879063949.xml" size="142710" crc="3238460937"/>
+<file name="1879063972.xml" size="19964" crc="3350163508"/>
+<file name="1879077508.xml" size="264052" crc="2318842558"/>
+<file name="1879077513.xml" size="265144" crc="2547714688"/>
+<file name="1879077514.xml" size="265144" crc="1049200461"/>
+<file name="1879084149.xml" size="126" crc="1631327017"/>
+<file name="1879087932.xml" size="259892" crc="1173212248"/>
+<file name="1879087935.xml" size="265664" crc="4189220948"/>
+<file name="1879087938.xml" size="265144" crc="487566525"/>
+<file name="1879470529.xml" size="128270" crc="470103461"/>
+<file name="1879470530.xml" size="247961" crc="3290840810"/>
+<file name="1879470531.xml" size="429347" crc="2838111268"/>
+<file name="1879470532.xml" size="262865" crc="3515771662"/>
+<file name="1879470533.xml" size="248528" crc="3827854511"/>
+<file name="1879470534.xml" size="61472" crc="3168225744"/>
+<file name="1879471174.xml" size="317" crc="1685991356"/>
+<file name="1879474050.xml" size="316757" crc="2330876518"/>
+<file name="1879474051.xml" size="13304" crc="910068965"/>
+<file name="1879474052.xml" size="32609" crc="339508007"/>
+<file name="1879474053.xml" size="32609" crc="1030923245"/>
+<file name="1879474054.xml" size="316757" crc="2391075985"/>
+<file name="1879474055.xml" size="13304" crc="3081769601"/>
+<file name="1879474985.xml" size="142013" crc="2234768065"/>
+</directory>
+<directory name="layers">
+<file name="0.xml" size="69381663" crc="3733657745"/>
+<file name="268435461.xml" size="1010394" crc="3944903829"/>
+<file name="268435481.xml" size="1007040" crc="2164247654"/>
+<file name="268436521.xml" size="2335" crc="707469412"/>
+<file name="268436736.xml" size="343" crc="2471852266"/>
+<file name="268436754.xml" size="1585" crc="912960807"/>
+<file name="268436760.xml" size="937" crc="2661636237"/>
+<file name="268436775.xml" size="154" crc="4197653437"/>
+</directory>
+</directory>
+<file name="links.xml" size="359759" crc="1747389471"/>
+<directory name="maps">
+<file name="maps.xml" size="360770" crc="3788506830"/>
+</directory>
+<directory name="markers">
+<file name="markers-1-10-7.xml" size="1969616" crc="1805673300"/>
+<file name="markers-1-3-7.xml" size="349007" crc="386687697"/>
+<file name="markers-1-7-8.xml" size="4257843" crc="1052489533"/>
+<file name="markers-1-9-7.xml" size="1941518" crc="2318019973"/>
+<file name="markers-4-4-4.xml" size="13645435" crc="447035273"/>
+<file name="markers-5-0-10.xml" size="54264" crc="2709057888"/>
+<file name="markers-5-0-9.xml" size="389519" crc="2414305025"/>
+<file name="markers-5-1-10.xml" size="3444" crc="201611335"/>
+<file name="markers-5-1-8.xml" size="1645270" crc="681643726"/>
+<file name="markers-5-1-9.xml" size="2275597" crc="4217658131"/>
+<file name="markers-5-11-11.xml" size="13911" crc="1389453373"/>
+<file name="markers-5-2-7.xml" size="515298" crc="879342592"/>
+<file name="markers-5-2-8.xml" size="1229330" crc="1632735355"/>
+<file name="markers-5-3-7.xml" size="13894" crc="2632513879"/>
+<file name="markers-5-3-8.xml" size="1599313" crc="436711198"/>
+<file name="markers-5-4-7.xml" size="98902" crc="3782222815"/>
+<file name="markers-5-4-8.xml" size="733871" crc="2331814284"/>
+</directory>
+</directory>
+<file name="mobs.xml" size="2090174" crc="3435070559"/>
+<file name="NPCs.xml" size="899027" crc="1936499"/>
+<file name="parchmentMaps.xml" size="43605" crc="882196376"/>
+<file name="privateEncounters.xml" size="547945" crc="225102511"/>
+<file name="progressions.xml" size="4293829" crc="4252987771"/>
+<file name="quests.xml" size="28668114" crc="3310777529"/>
+<file name="recipes.xml" size="12605534" crc="984476699"/>
+<file name="resources.xml" size="27915" crc="3655132244"/>
+<file name="sets.xml" size="1316524" crc="1059045895"/>
+<file name="skills.xml" size="1577347" crc="870434578"/>
+<file name="traits.xml" size="835078" crc="1079128373"/>
+</directory>
+</directory>
+<file name="launcher.xml" size="1866" crc="3669564332"/>
+<directory name="lib">
+<file name="delta-lotro-companion-21.0.1.jar" size="3209019" crc="3866768507"/>
+<file name="delta-lotro-core-21.0.1.jar" size="2249912" crc="1690476866"/>
+<file name="itemIcons.zip" size="33654918" crc="3380677723"/>
+<file name="skillIcons.zip" size="7003273" crc="3453305495"/>
+<file name="traitIcons.zip" size="7261918" crc="2664279009"/>
+</directory>
+</archive>
+<delete path="lib/delta-lotro-companion-21.0.jar"/>
+<delete path="lib/delta-lotro-core-21.0.jar"/>
+</package>
