@@ -1,6 +1,29 @@
 LOTRO Companion
 Release Notes / History
 
+21.1.0.38.1 (08/12/2023)
+- updates/improvements:
+	- data for Update 38.1
+	- Add maps in the quests/deeds explorer
+	- Display DPS, min/max damage and damage type in weapon instances
+	- Add an 'active' flag on profession status (no UI)
+	- Add Character XP and Item XP in the quest statistics
+	- Crafting recipes: handle case where regular and crit results are the same item...
+	- Added "On Use:" before skill effects
+	- Improve the layout of item instance display/edition windows
+- bug fixes:
+	- Some deeds (with >10 objectives/conditions) have a bad imported status bug deeds import quests
+	- Display of IDs shall be gated behind the ad-hoc environment variable
+(see also: https://github.com/LotroCompanion/lotro-companion/milestone/26)
+
+21.0.1.38.0.1 (15/11/2023)
+- updates/improvements:
+	- Add "ID" and "Quality" fields in the item window. Make it selectable for Copy&Paste.
+	- Remove the vocation column for live
+- bug fixes:
+	- Handle case of limited allegiance max level
+	- Max essence tier is now 15
+
 21.0.38 (11/11/2023)
 - new features:
 	- Detailed description of effects for items, sets and skills
